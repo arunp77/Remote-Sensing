@@ -1,0 +1,20 @@
+Aquaculture_polygons.shp		- Sample ESRI polygon shapefile (Sardinia and Corsica)
+Aquaculture_region.hdf			- Projection master template for aquaculture company
+Hexagon_50km_length.shp			- Sample ESRI polygon shapefile (Gulf of Mexico)
+NOAAOceanColorMasks.jso			- Ocean color L2 flags saved overlays
+NOAAOceanColorMasksNCgroups.jso		- Ocean color L2 flags saved overlays (groups version)
+example_ahi_sst_feb_2023.hdf		- Visible band reflectance and sea surface temperature (Japan)
+example_altim_surface_curr_feb_2023.nc	- Global sea surface currents
+example_amsr_ice_conc_jan_2022.nc	- Ice concentration (Jan)
+example_amsr_ice_conc_jul_2022.nc	- Ice concentration (Jul)
+example_ascat_wind_mar_2023.nc		- Global sea surface winds
+example_avhrr_swath_sst_sep_2022.nc	- Sea surface temperature (Red Sea / Mediterranean)
+example_goci2_reflect_jan_2023.hdf	- Visible band reflectance (Korea)
+example_olci_rad_sep_2022.hdf		- Visible band radiance (Australia)
+example_smap_salinity_apr_??_2023.nc	- Global sea surface salinity files (7 days)
+example_viirs_chlor_flags_oct_2022.hdf	- Chlorophyll-a concentration (Hawaii)
+example_viirs_chlor_sep_2022.nc		- Global chlorophyll-a concentration
+example_viirs_swath_sst_apr_2023.nc	- Sea surface temperature (Atlantic / Mediterranean)
+sst_process.bat				- SST data processing batch file for Windows
+sst_process.sh				- SST data processing batch file for Unix
+
