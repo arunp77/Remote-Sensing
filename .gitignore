@@ -197,8 +197,4 @@ Machine-learning-task.md
 *.kml 
 
 # Ignore the entire OLCI directory and its contents
-OLCI/
-OLCI/ThoMas/
-OLCI/eumdac/ 
-OLCI/ThoMas/OLCI_ThoMas_2022/
-
+OCLI/
