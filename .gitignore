@@ -196,5 +196,6 @@ Machine-learning-task.md
 *.xml 
 *.kml 
 
-# Ignore the entire OLCI directory and its contents
+# Ignore the entire directory and its contents
 OCLI/
+Machine-learning-Atmoshpric/
