@@ -1,0 +1,10 @@
+# Copyright holder
+copyright: 2023 EUMETSAT
+license: LICENSE.txt
+ 
+# List of development authors
+Ben Loveday (Innoflair UG / EUMETSAT)
+Hayley Evers-King (EUMETSAT)
+
+# Support
+For all queries on this software package, please contact ops@eumetsat.int
