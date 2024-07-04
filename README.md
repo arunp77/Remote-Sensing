@@ -32,3 +32,9 @@ In this project, I will be focusing on remote sensing, and I'll delve into the i
 - **Data Visualization:** Creating meaningful visualizations to communicate insights and results effectively.
 
 - **Documentation:** Properly documenting the methods and findings, which is crucial for reproducibility and sharing my work with others.
+
+
+# Details
+
+- For detailed theory on Remote Sensing, follow the [link](https://arunp77.github.io/Remote-sensing-content.html)
+- For more details, follow the [link](https://arunp77.github.io/OLCI.html) 
