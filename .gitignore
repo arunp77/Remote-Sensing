@@ -197,9 +197,16 @@ Machine-learning-task.md
 *.qmd
 *.qix 
 *.xml 
-*.kml 
+*.kml
+
+
+# .hdarc
+.hdarc
+.shp
+.shx
 
 # Ignore the entire directory and its contents
 OCLI/
+2_OLCI_advanced/
 Machine-learning-Atmoshpric/
 Others_ref/
