@@ -38,6 +38,9 @@ wheels/
 2_OLCI_advanced/products/
 2_OLCI_advanced/*.png
 2_OLCI_advanced/outputs
+cw_utils_sample_data/
+COAST_watch_cw_utils_sample_data/
+
 **ThoMaS**
 **WCO_L4**
 **Venice**
