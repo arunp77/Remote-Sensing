@@ -46,9 +46,7 @@ COAST_watch_cw_utils_sample_data/
 **Venice**
 **MOBY**
 
-
-
 # .hdarc
 .hdarc
-.shp
-.shx
+*.shp
+*.shx
