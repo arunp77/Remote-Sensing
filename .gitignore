@@ -200,15 +200,26 @@ Machine-learning-task.md
 *.kml
 
 # .hdarc
-.hdarc
-.shp
-.shx
-.dbf
-.prj
+*.hdarc
+*.shp
+*.shx
+*.dbf
+*.prj
+*.xlsx
+*.tiff 
+*.gif 
 
 # Ignore the entire directory and its contents
 OCLI/
 2_OLCI_advanced/
 Machine-learning-Atmoshpric/
 Others_ref/
-Sept-2024
+
+
+cloud_height.ipynb 
+cloud-height.py
+Code_for_extracting_time_series_for_cloud_top_height_data_with_lat_lon_trail.py
+Brightness_temperature_Flight_10_for_all_file_with_halo_track.py
+ABI-L2-ACHAF-2022-12.nc
+for_ploting_CTH_colorbar_plot_dec (1).py
+for_ploting_CTH_colorbar_plot_dec.py
