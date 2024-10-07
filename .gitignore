@@ -203,6 +203,8 @@ Machine-learning-task.md
 .hdarc
 .shp
 .shx
+.dbf
+.prj
 
 # Ignore the entire directory and its contents
 OCLI/
